@@ -106,7 +106,8 @@ Currently studying at the College of Information Technologies, where I explore b
 <p align="center">
 <a href=#><img src="contributions.svg"></a>
 </p>
+
 ---
 
-## 📫 Contacts
-- Email: <a href="mailto:vvkudriavetsvaleria@gmail.com">vvkudriavetsvaleria@gmail.com</a>
+
+
