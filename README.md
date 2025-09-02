@@ -84,8 +84,13 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-light.svg" alt="snake animation" />
+  </picture>
 </p>
+
 
 ---
 
