@@ -79,19 +79,19 @@ Currently studying at the College of Information Technologies, where I explore b
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kudriavetsvaleria&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=kudriavetsvaleria&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="streak stats"/>
 </p>
 
 <p align="center">
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=kudriavetsvaleria&show_icons=true&card_width=350&hide=&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1f1f1f&hide_border=true" 
-      height="129" width="320" alt="GitHub stats" />
+      src="https://github-readme-stats.vercel.app/api?username=kudriavetsvaleria&show_icons=true&card_width=380&hide=&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1f1f1f&hide_border=true" 
+      height="159" width="350" alt="GitHub stats" />
   </span>
   <span style="margin-left: 15px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudriavetsvaleria&langs_count=10&layout=compact&card_width=410&title_color=3382ed&text_color=ffffff&bg_color=1f1f1f&hide_border=true&custom_title=Top%20Languages" 
-      height="128" width="410" alt="Top languages" />
+      height="158" width="410" alt="Top languages" />
   </span>
 </p>
 
