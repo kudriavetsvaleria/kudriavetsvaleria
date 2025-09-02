@@ -85,12 +85,12 @@
 
 
 <p align="center">
-  <img src="./output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/output/snake-dark.svg" alt="snake animation"/>
 </p>
+
 
 
 ---
 
 ## 📫 Contacts
-- GitHub: <a href="https://www.github.com/kudriavetsvaleria">kudriavetsvaleria</a>  
 - Email: <a href="mailto:vvkudriavetsvaleria@gmail.com">vvkudriavetsvaleria@gmail.com</a>
