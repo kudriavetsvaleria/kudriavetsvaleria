@@ -85,11 +85,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-light.svg" alt="snake animation" />
+    <!-- Тёмная тема -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/output/snake-dark.svg" />
+    <!-- Светлая тема -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/output/snake-light.svg" />
+    <!-- Фолбэк, если браузер не поддерживает <picture> -->
+    <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/output/snake-light.svg" alt="GitHub Snake animation" />
   </picture>
 </p>
+
 
 
 ---
