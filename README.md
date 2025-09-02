@@ -83,13 +83,7 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake.svg?v=2"
-    alt="snake animation"
-  />
-</p>
-
+<a href=#><img src="contributions.svg"></a>
 
 ---
 
