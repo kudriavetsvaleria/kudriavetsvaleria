@@ -2,39 +2,39 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main                 
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-   
-      - name: Generate snake-light.svg
+      
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kudriavetsvaleria
           outputs: |
-            output/snake-light.svg
+            output/snake.svg
           palette: github-light
 
       
-      - name: Generate snake-blue.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: kudriavetsvaleria
-          outputs: |
-            output/snake-blue.svg
-          palette: "blue"
+      - name: Patch SVG with dark theme colors
+        run: |
+ 
+          DARK_CSS='@media (prefers-color-scheme: dark){:root{--cb:#30363d;--cs:#bf4bff;--ce:#161b22;--c0:#161b22;--c1:#0e4429;--c2:#006d32;--c3:#26a641;--c4:#39d353}}'
+         
+          LIGHT_CSS='@media (prefers-color-scheme: light){:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}}'
+
+          sed -i "0,/<style>/s//<style>${DARK_CSS}${LIGHT_CSS}/" output/snake.svg
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update snake animation"
-          file_pattern: output/snake-*.svg
+          commit_message: "chore: update snake (theme-aware)"
+          file_pattern: output/snake.svg
