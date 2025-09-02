@@ -85,7 +85,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake-dark.svg" alt="snake animation dark" />
+  <img src="https://raw.githubusercontent.com/kudriavetsvaleria/kudriavetsvaleria/main/output/snake.svg" alt="snake animation" />
 </p>
 
 
