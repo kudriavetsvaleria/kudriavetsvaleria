@@ -90,8 +90,8 @@ Currently studying at the College of Information Technologies, where I explore b
   </span>
   <span style="margin-left: 15px;">
     <img 
-      src="https://github-readme-stats-weld-two-u94mrw3a45.vercel.app/api/top-langs/?username=kudriavetsvaleria&langs_count=10&layout=compact&card_width=410&title_color=3382ed&text_color=ffffff&bg_color=1f1f1f&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800&v=2" 
-      height="158" width="410" alt="Top languages" />
+      src="https://github-readme-stats-weld-two-u94mrw3a45.vercel.app/api/top-langs/?username=kudriavetsvaleria&langs_count=10&layout=compact&card_width=460&title_color=3382ed&text_color=ffffff&bg_color=1f1f1f&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800&v=2" 
+      height="158" width="400" alt="Top languages" />
   </span>
 </p>
 
