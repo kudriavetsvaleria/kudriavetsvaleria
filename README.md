@@ -85,12 +85,12 @@ Currently studying at the College of Information Technologies, where I explore b
 <p align="center">
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=kudriavetsvaleria&show_icons=true&card_width=380&hide=&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1f1f1f&hide_border=true" 
+      src="https://github-readme-stats-weld-two-u94mrw3a45.vercel.app/api?username=kudriavetsvaleria&show_icons=true&card_width=380&hide=&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1f1f1f&hide_border=true&cache_seconds=1800&v=2" 
       height="159" width="350" alt="GitHub stats" />
   </span>
   <span style="margin-left: 15px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudriavetsvaleria&langs_count=10&layout=compact&card_width=410&title_color=3382ed&text_color=ffffff&bg_color=1f1f1f&hide_border=true&custom_title=Top%20Languages" 
+      src="https://github-readme-stats-weld-two-u94mrw3a45.vercel.app/api/top-langs/?username=kudriavetsvaleria&langs_count=10&layout=compact&card_width=410&title_color=3382ed&text_color=ffffff&bg_color=1f1f1f&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800&v=2" 
       height="158" width="410" alt="Top languages" />
   </span>
 </p>
@@ -108,6 +108,3 @@ Currently studying at the College of Information Technologies, where I explore b
 </p>
 
 ---
-
-
-
