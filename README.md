@@ -77,10 +77,12 @@ Currently studying at the College of Information Technologies, where I explore b
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kudriavetsvaleria&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="streak stats"/>
-</p>
+<img 
+  src="https://github-readme-streak-stats-gamma-coral.vercel.app/?user=kudriavetsvaleria&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400&v=11"
+  height="165"
+  alt="streak stats"
+/>
 
 <p align="center">
   <span>
