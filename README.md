@@ -39,39 +39,60 @@ Currently studying at the College of Information Technologies, where I explore b
 ---
 
 ## 🛠️ Skills & Technologies
-
 <!-- Compact icon grid -->
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/><br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET"/><br>.NET (WPF)
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows"/><br>Windows Apps
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio"/><br>Visual Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br>GitHub
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://github.com/topics/c-sharp">
+          <img src="https://skillicons.dev/icons?i=cs" width="48" />
+        </a>
+        <br /><span>C#</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://learn.microsoft.com/aspnet/core/">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="48" />
+        </a>
+        <br /><span>ASP.NET</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://isocpp.org/">
+          <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+        </a>
+        <br /><span>C++</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+          <img src="https://skillicons.dev/icons?i=js" width="48" />
+        </a>
+        <br /><span>JavaScript</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://react.dev/">
+          <img src="https://skillicons.dev/icons?i=react" width="48" />
+        </a>
+        <br /><span>React</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://nodejs.org/">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+        </a>
+        <br /><span>Node.js</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://learn.microsoft.com/sql/">
+          <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+        </a>
+        <br /><span>SQL</span>
+      </td>
+      <td align="center" width="96">
+        <a href="https://visualstudio.microsoft.com/">
+          <img src="https://skillicons.dev/icons?i=visualstudio" width="48" />
+        </a>
+        <br /><span>VS</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
