@@ -61,11 +61,12 @@ Currently studying at the College of Information Technologies, where I explore b
         </a>
         <br /><span>C++</span>
       </td>
+      <!-- REPLACED: JavaScript -> NoSQL -->
       <td align="center" width="96">
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-          <img src="https://skillicons.dev/icons?i=js" width="48" />
+        <a href="https://en.wikipedia.org/wiki/NoSQL">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
         </a>
-        <br /><span>JavaScript</span>
+        <br /><span>NoSQL</span>
       </td>
       <td align="center" width="96">
         <a href="https://react.dev/">
@@ -73,11 +74,12 @@ Currently studying at the College of Information Technologies, where I explore b
         </a>
         <br /><span>React</span>
       </td>
+      <!-- REPLACED: Node.js -> Docker -->
       <td align="center" width="96">
-        <a href="https://nodejs.org/">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+        <a href="https://www.docker.com/">
+          <img src="https://skillicons.dev/icons?i=docker" width="48" />
         </a>
-        <br /><span>Node.js</span>
+        <br /><span>Docker</span>
       </td>
       <td align="center" width="96">
         <a href="https://learn.microsoft.com/sql/">
@@ -94,6 +96,7 @@ Currently studying at the College of Information Technologies, where I explore b
     </tr>
   </table>
 </div>
+
 
 ---
 
