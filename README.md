@@ -30,9 +30,12 @@
 </p>
 
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Junior developer with a passion for building Windows desktop applications using C++, C#, Java, and the .NET (WPF) framework.  
-Currently studying at the College of Information Technologies, where I explore both the fundamentals of software engineering and the creative side of UI/UX design.  
+<p align="center">
+<font size="3">
+&nbsp;&nbsp;&nbsp;&nbsp;.NET Developer focused on building reliable APIs and 
+data-driven applications with C#, ASP.NET Core and Entity Framework. Bachelor's 
+degree in Software Engineering. Always learning, always building.
+</font>
 </p>
 
 
@@ -56,17 +59,16 @@ Currently studying at the College of Information Technologies, where I explore b
         <br /><span>ASP.NET</span>
       </td>
       <td align="center" width="96">
-        <a href="https://isocpp.org/">
-          <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+        <a href="https://vitejs.dev/">
+          <img src="https://skillicons.dev/icons?i=vite" width="48" />
         </a>
-        <br /><span>C++</span>
+        <br /><span>Vite</span>
       </td>
-      <!-- REPLACED: JavaScript -> NoSQL -->
       <td align="center" width="96">
-        <a href="https://en.wikipedia.org/wiki/NoSQL">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+        <a href="https://learn.microsoft.com/sql/">
+          <img src="https://skillicons.dev/icons?i=postgres" width="48" />
         </a>
-        <br /><span>NoSQL</span>
+        <br /><span>PostgreSQL</span>
       </td>
       <td align="center" width="96">
         <a href="https://react.dev/">
@@ -74,7 +76,12 @@ Currently studying at the College of Information Technologies, where I explore b
         </a>
         <br /><span>React</span>
       </td>
-      <!-- REPLACED: Node.js -> Docker -->
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://skillicons.dev/icons?i=ts" width="48" />
+        </a>
+        <br /><span>TypeScript</span>
+      </td>
       <td align="center" width="96">
         <a href="https://www.docker.com/">
           <img src="https://skillicons.dev/icons?i=docker" width="48" />
@@ -82,16 +89,16 @@ Currently studying at the College of Information Technologies, where I explore b
         <br /><span>Docker</span>
       </td>
       <td align="center" width="96">
-        <a href="https://learn.microsoft.com/sql/">
-          <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+        <a href="https://git-scm.com/">
+          <img src="https://skillicons.dev/icons?i=git" width="48" />
         </a>
-        <br /><span>SQL</span>
+        <br /><span>Git</span>
       </td>
       <td align="center" width="96">
-        <a href="https://visualstudio.microsoft.com/">
-          <img src="https://skillicons.dev/icons?i=visualstudio" width="48" />
+        <a href="https://www.postman.com/">
+          <img src="https://skillicons.dev/icons?i=postman" width="48" />
         </a>
-        <br /><span>VS</span>
+        <br /><span>Postman</span>
       </td>
     </tr>
   </table>
